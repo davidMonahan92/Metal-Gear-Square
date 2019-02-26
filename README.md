@@ -3,7 +3,8 @@ Simple Javascript game
 
 Get to the Square!! 
 
-A simple javascript game to practice using the canvas attribute and practice my JavaScript coding skill.
+A simple javascript game to practice using the canvas attribute and practice my JavaScript coding skill. Can be played here
+- https://davidmonahan92.github.io/Metal-Gear-Square/
 
 The aim of the game is easy, using the a,w,s,d keys navigate your rectangle into the empty square to rack up your score. After you are successfull the square will move to a new location and you continue on your journey.
 
